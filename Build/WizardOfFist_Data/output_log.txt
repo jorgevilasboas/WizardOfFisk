@@ -1,0 +1,40 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 M265 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     2039 MB
+    Driver:   14.301.1002.1001
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\git\3-jam\Build\WizardOfFist_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\git\3-jam\Build\WizardOfFist_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\git\3-jam\Build\WizardOfFist_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\git\3-jam\Build\WizardOfFist_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\git\3-jam\Build\WizardOfFist_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\git\3-jam\Build\WizardOfFist_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\git\3-jam\Build\WizardOfFist_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\git\3-jam\Build\WizardOfFist_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\git\3-jam\Build\WizardOfFist_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\git\3-jam\Build\WizardOfFist_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.480967 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.261296 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 261.
+Total: 0.176621 ms (FindLiveObjects: 0.015395 ms CreateObjectMapping: 0.017106 ms MarkObjects: 0.065003 ms  DeleteObjects: 0.078260 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.244618 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 0.197576 ms (FindLiveObjects: 0.017106 ms CreateObjectMapping: 0.018816 ms MarkObjects: 0.156949 ms  DeleteObjects: 0.003848 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 12c8 -> priority: 1 
+  Thread -> id: 14ac -> priority: 1 
